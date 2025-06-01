@@ -7,11 +7,11 @@
   heart disease.
 
 ## 🛠️ Technologies Used
-  • Python
-  • NumPy
-  • Pandas
-  • Matplotlib
-  • Scikit-learn
+  - Python
+  - NumPy
+  - Pandas
+  - Matplotlib
+  - Scikit-learn
   
 ## 🚀 How it Works
   1. **Data Loading & Preprocessing**
@@ -32,8 +32,8 @@
      - A new patient's data (numerical and preprocessed) is input and classified using the PCA-trained model.
 
 ## 📊 Results
-  • **Accuracy without PCA:** ~X.XX (will be printed when run)
-  • **Accuracy with PCA:** ~X.XX (will be printed when run)
+  - **Accuracy without PCA:** ~X.XX (will be printed when run)
+  - **Accuracy with PCA:** ~X.XX (will be printed when run)
   > The accuracy comparison is visualized using a bar chart.
 
 ## ▶️ How to Run
